@@ -1,4 +1,4 @@
-//package com.qascript.app;
+package com.qascript.app;
 
 public class Application {
 
